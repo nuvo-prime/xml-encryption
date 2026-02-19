@@ -44,7 +44,7 @@
     "test": "mocha"
   },
   "engines": {
-    "node": ">=12 <= 22"
+    "node": ">=12 <= 24"
   },
   "description": "xml-encryption with decryption from node-forge",
   "directories": {
