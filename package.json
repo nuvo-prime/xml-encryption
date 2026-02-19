@@ -1,6 +1,6 @@
 {
   "name": "@nuvo-prime/xml-encryption",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "devDependencies": {
     "mocha": "^7.1.2",
     "should": "^11.2.1",
@@ -44,7 +44,7 @@
     "test": "mocha"
   },
   "engines": {
-    "node": ">=12 <= 22"
+    "node": ">=12 <= 24"
   },
   "description": "xml-encryption with decryption from node-forge",
   "directories": {

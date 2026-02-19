@@ -2,7 +2,7 @@
 
 W3C XML Encryption implementation for node.js (http://www.w3.org/TR/xmlenc-core/)
 
-Supports node >= 12 < 18
+Supports node >= 12 < 24
 
 node 18 not supported due to https://github.com/nodejs/node/issues/52017 for Triple DES algorithms.
 
